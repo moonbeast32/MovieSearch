@@ -1,0 +1,3 @@
+C:\Repos\Experementing\MovieSearch\MovieSearch\obj\Debug\MovieSearch.njsproj.AssemblyReference.cache
+C:\Repos\Experementing\MovieSearch\MovieSearch\obj\Debug\MovieSearch.njsproj.CoreCompileInputs.cache
+C:\Repos\Experementing\MovieSearch\MovieSearch\bin\Microsoft.NodejsTools.WebRole.dll
